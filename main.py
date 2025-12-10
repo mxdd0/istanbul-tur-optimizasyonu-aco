@@ -53,7 +53,7 @@ def get_distance_matrix(locations):
 
 # --- SIDEBAR (PARAMETRELER) ---
 st.sidebar.header("Algoritma Ayarları")
-st.sidebar.info("Hocanın istediği parametreler buradan değiştirilebilir.")
+st.sidebar.info("Simülasyon parametrelerini buradan yapılandırabilirsiniz.")
 
 n_ants = st.sidebar.slider("Karınca Sayısı", 10, 100, 30)
 n_iterations = st.sidebar.slider("İterasyon Sayısı", 10, 200, 50)
