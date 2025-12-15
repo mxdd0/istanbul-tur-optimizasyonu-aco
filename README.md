@@ -5,7 +5,7 @@ Bu proje, BLG-307 Yapay Zeka Sistemleri dersi kapsamında hazırlanmıştır.
 Öğrenci: Bahadır Beldek
 Numara: 2112721066
 
-## 📌 Proje Tanımı
+Proje Tanımı
 Bir tur şirketi için İstanbul'daki 15 tarihi mekanı içeren, toplam mesafenin en az olduğu günlük gezi rotasını **Karınca Kolonisi Algoritması (ACO)** kullanarak oluşturur.
 
 ### Özellikler
@@ -14,7 +14,7 @@ Bir tur şirketi için İstanbul'daki 15 tarihi mekanı içeren, toplam mesafeni
 * **Harita:** Folium ile dinamik rota çizimi
 * **Veri:** İstanbul'daki 15 gerçek lokasyonun koordinatları
 
-## ⚙️ Kurulum ve Çalıştırma
+Kurulum ve Çalıştırma
 
 1. Repoyu klonlayın:
    ```bash
